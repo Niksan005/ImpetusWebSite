@@ -1,0 +1,142 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+}
+
+.gradient {
+    border: 2px solid #dadada;
+    border-radius: 7px;
+}
+
+    .gradient:hover {
+        background: linear-gradient(-45deg, #05386b, #379683, #5cdB95, #8ee4af);
+        background-size: 400% 400%;
+        animation: gradient 3s ease infinite;
+        outline: none;
+        border-color: #5cdB95;
+        box-shadow: 0 0 10px #8ee4af;
+    }
+
+.hoverA {
+    color: #8ee4af;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+
+.my-nav {
+    background-color: #379683;
+    opacity: 0.7;
+}
+
+.my-bg {
+    background: linear-gradient(-45deg,#05386b ,#379683, #5cdB95, #8ee4af);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+}
+
+.my-card-dark {
+    background-color: #379683;
+    outline: none;
+    border-color: #379683;
+}
+    .my-card-dark:hover {
+        box-shadow: 0 0 100px #379683;
+    }
+
+.my-card {
+    background-color: #8ee4af;
+    outline: none;
+    border-color: #8ee4af;
+}
+    .my-card:hover {
+        box-shadow: 0 0 100px #8ee4af;
+    }
+
+*{
+    color: #05386b;
+}
+
+.my-color{
+    color: #edf5e1;
+}
