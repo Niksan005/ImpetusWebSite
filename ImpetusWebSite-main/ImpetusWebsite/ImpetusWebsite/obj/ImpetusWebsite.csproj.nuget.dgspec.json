@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Impetus\\ImpetusWebSite\\ImpetusWebSite-main\\ImpetusWebsite\\ImpetusWebsite\\ImpetusWebsite.csproj": {}
+    "C:\\Users\\niki\\Desktop\\Projects\\git\\ImpetusWebSite-main\\ImpetusWebsite\\ImpetusWebsite\\ImpetusWebsite.csproj": {}
   },
   "projects": {
-    "D:\\Impetus\\ImpetusWebSite\\ImpetusWebSite-main\\ImpetusWebsite\\ImpetusWebsite\\ImpetusWebsite.csproj": {
+    "C:\\Users\\niki\\Desktop\\Projects\\git\\ImpetusWebSite-main\\ImpetusWebsite\\ImpetusWebsite\\ImpetusWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Impetus\\ImpetusWebSite\\ImpetusWebSite-main\\ImpetusWebsite\\ImpetusWebsite\\ImpetusWebsite.csproj",
+        "projectUniqueName": "C:\\Users\\niki\\Desktop\\Projects\\git\\ImpetusWebSite-main\\ImpetusWebsite\\ImpetusWebsite\\ImpetusWebsite.csproj",
         "projectName": "ImpetusWebsite",
-        "projectPath": "D:\\Impetus\\ImpetusWebSite\\ImpetusWebSite-main\\ImpetusWebsite\\ImpetusWebsite\\ImpetusWebsite.csproj",
-        "packagesPath": "C:\\Users\\Денис\\.nuget\\packages\\",
-        "outputPath": "D:\\Impetus\\ImpetusWebSite\\ImpetusWebSite-main\\ImpetusWebsite\\ImpetusWebsite\\obj\\",
+        "projectPath": "C:\\Users\\niki\\Desktop\\Projects\\git\\ImpetusWebSite-main\\ImpetusWebsite\\ImpetusWebsite\\ImpetusWebsite.csproj",
+        "packagesPath": "C:\\Users\\niki\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\niki\\Desktop\\Projects\\git\\ImpetusWebSite-main\\ImpetusWebsite\\ImpetusWebsite\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Денис\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\niki\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
@@ -86,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

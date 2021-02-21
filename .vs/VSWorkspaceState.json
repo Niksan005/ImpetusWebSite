@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ImpetusWebSite-main",
+    "\\ImpetusWebSite-main\\ImpetusWebsite",
+    "\\ImpetusWebSite-main\\ImpetusWebsite\\ImpetusWebsite",
+    "\\ImpetusWebSite-main\\ImpetusWebsite\\ImpetusWebsite\\Areas",
+    "\\ImpetusWebSite-main\\ImpetusWebsite\\ImpetusWebsite\\Areas\\Identity",
+    "\\ImpetusWebSite-main\\ImpetusWebsite\\ImpetusWebsite\\Controllers",
+    "\\ImpetusWebSite-main\\ImpetusWebsite\\ImpetusWebsite\\Models",
+    "\\ImpetusWebSite-main\\ImpetusWebsite\\ImpetusWebsite\\Views"
+  ],
+  "SelectedNode": "\\ImpetusWebSite-main\\ImpetusWebsite\\ImpetusWebsite\\Controllers\\GameController.cs",
+  "PreviewInSolutionExplorer": false
+}
